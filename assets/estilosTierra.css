@@ -1,0 +1,17 @@
+dd{
+    width: 600px;
+}
+.img1{
+    position: relative;
+    top: -110px;
+  left: 700px;
+}
+.texto1{
+    position: relative;
+    top: -110px;
+  left: 700px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+dt{
+    font-weight: bold;
+}
